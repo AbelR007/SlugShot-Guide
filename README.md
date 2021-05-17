@@ -1,4 +1,4 @@
-# Slugshot-Bot
+# SlugShot Bot
 
 ## About
 
